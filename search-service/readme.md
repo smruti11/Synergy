@@ -1,0 +1,1 @@
+ElasticSearch or MongoDB aggregation

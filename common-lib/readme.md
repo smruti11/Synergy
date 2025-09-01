@@ -1,0 +1,1 @@
+Shared DTOs, Feign clients, Kafka config, exception model
